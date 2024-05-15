@@ -1,0 +1,6 @@
+train: D:\Swift-dynamics\Object-detection-MRT-project\datasource-video\labels\YOLODataset/images/train/
+val: D:\Swift-dynamics\Object-detection-MRT-project\datasource-video\labels\YOLODataset/images/val/
+
+nc: 1
+
+names: ['person']
